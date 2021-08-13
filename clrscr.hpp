@@ -18,3 +18,4 @@ int clrscr(short clearmode) {
 
 // last edit: 10/08
 // developed by https://github.com/Dolfost
+// license: https://github.com/Dolfost/clrscr-cpp/blob/main/COPYING
