@@ -1,0 +1,31 @@
+filename:	clrscr.hpp
+version: 	1.1.0
+funcount:	1
+structcount:	0
+created: 	16/07/2021
+created by:	https://github.com/Dolfost
+
+description:
+Cleaning the terminal window in one of 3 modes.
+
+usage:
+int clrscr(const short clearmode)
+
+int return : 		status, 0 - fine, !0 - bad,
+clrscr :	 	clear screen,
+const short clearmode :	clearmode;
+
+tip: If you specify a non-existent value,
+     the function returns 1.
+
+clearmodes: 
+0 : ANSI Escape Sequence (featuring cout),
+1 : system("clear"), suitable for Linux systems.
+2 : system("cls"), suitable for Windows system.
+
+changes:
+1.1.0 	10/08/2021			redesign the clrscr() function, add a return value;
+
+links:
+  sourse:	https://github.com/Dolfost/ansicolors
+  license:	https://github.com/Dolfost/ansicolors/blob/main/COPYING
