@@ -27,5 +27,5 @@ changes:
 1.1.0 	10/08/2021			redesign the clrscr() function, add a return value;
 
 links:
-  sourse:	https://github.com/Dolfost/ansicolors
-  license:	https://github.com/Dolfost/ansicolors/blob/main/COPYING
+  sourse:	https://github.com/Dolfost/clrscr-cpp
+  license:	https://github.com/Dolfost/clrscr-cpp/blob/main/COPYING
