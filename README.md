@@ -17,8 +17,10 @@ Return | Description
 -------|-----------------------------------------------
 `0`      | The cleaning was successful.
 `!0`     | An error occurred while cleaning.
-## Example
-_See [this](https://github.com/Dolfost/clrscr-cpp/blob/main/readme/run/test.cpp)._
+### Example: [test.cpp](https://github.com/Dolfost/clrscr-cpp/blob/main/readme/run/test.cpp).
+
+### Other libinfo: [libinfo.txt](https://github.com/Dolfost/clrscr-cpp/blob/main/readme/libinfo.txt). 
+-------------------------------------------
 
 ## License: LGPL-3.0
 [GNU General Public License v3.0](https://github.com/Dolfost/clrscr-cpp/blob/main/COPYING)  
